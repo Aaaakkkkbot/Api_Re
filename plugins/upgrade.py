@@ -12,23 +12,23 @@ Price 0
 
 **🪙 Basic**
 Daily  Upload  limit 20GB
-Price Rs 49  ind /🌎 0.59$  per Month
+Price Rs 69  ind /🌎 0.81$  per Month
 
 **⚡ Standard**
 Daily Upload limit 50GB
-Price Rs 99  ind /🌎 1.19$  per Month
+Price Rs 119  ind /🌎 1.41$  per Month
 
 **💎 Pro**
 Daily Upload limit 100GB
-Price Rs 179  ind /🌎 2.16$  per Month
+Price Rs 199  ind /🌎 2.35$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>RahulReviews@UPI</code>
+<b>➜ UPI ID :</b> <code>shanusoraeran.com@fam</code>
 
-After Payment Send Screenshots Of Payment To Admin @CodeXBro"""
+After Payment Send Screenshots Of Payment To Admin @Mikoyo"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CodeXBro"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/Mikoyo"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -44,23 +44,23 @@ Price 0
 
 **🪙 Basic**
 Daily  Upload  limit 20GB
-Price Rs 49  ind /🌎 0.59$  per Month
+Price Rs 69  ind /🌎 0.81$  per Month
 
 **⚡ Standard**
 Daily Upload limit 50GB
-Price Rs 99  ind /🌎 1.19$  per Month
+Price Rs 199  ind /🌎 1.41$  per Month
 
 **💎 Pro**
 Daily Upload limit 100GB
-Price Rs 179  ind /🌎 2.16$  per Month
+Price Rs 199  ind /🌎 2.35$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>RahulReviews@UPI</code>
+<b>➜ UPI ID :</b> <code>shanusoraeran.com@fam</code>
 
-After Payment Send Screenshots Of Payment To Admin @CodeXBro"""
+After Payment Send Screenshots Of Payment To Admin @Mikoyo"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CodeXBro"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/Mikoyo"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
